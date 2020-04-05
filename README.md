@@ -15,10 +15,9 @@ Ficar em casa em períodos longos, não deve ser nada fácil, a aplicação Casa
 >Na página de idéias são exibidos todos as idéias que já foram adicionadas.
 
 ![](https://github.com/WebertonMendes/CasaCriativa/blob/master/README/IdeiasPage.PNG?raw=true)
-
 <br>
+
 #### Página Adicionar Ideias
 >Na página adicionar ideias é exibido o formulário de cadastro das novas ideias.
 ![](https://github.com/WebertonMendes/CasaCriativa/blob/master/README/AdicionarIdeiaPage.PNG?raw=true)
-
 <br>
