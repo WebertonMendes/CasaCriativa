@@ -28,10 +28,10 @@ $ npm start
 ### Telas da Aplicação
 
 > Página Home
-![](https://github.com/WebertonMendes/CasaCriativa/blob/master/README/HomePage.PNG?raw=true)<br>
+![](https://github.com/WebertonMendes/CasaCriativa/blob/master/screen/HomePage.PNG?raw=true)<br>
 
 > Página de ideias cadastradas
-![](https://github.com/WebertonMendes/CasaCriativa/blob/master/README/IdeiasPage.PNG?raw=true)<br>
+![](https://github.com/WebertonMendes/CasaCriativa/blob/master/screen/IdeiasPage.PNG?raw=true)<br>
 
 > Página de cadastro de novas ideias
-![](https://github.com/WebertonMendes/CasaCriativa/blob/master/README/AdicionarIdeiaPage.PNG?raw=true)<br>
+![](https://github.com/WebertonMendes/CasaCriativa/blob/master/screen/AdicionarIdeiaPage.PNG?raw=true)<br>
