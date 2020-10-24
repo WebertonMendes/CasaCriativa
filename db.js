@@ -1,5 +1,5 @@
 const sqlite3 = require('sqlite3').verbose()
-const db = new sqlite3.Database('./casaCriativa.db')
+const db = new sqlite3.Database('./casaCriativa.sqlite')
 
 db.serialize(function() {
   db.run(`
@@ -34,9 +34,9 @@ db.serialize(function() {
   db.run(query, values, function(err) {
     if (err) return console.log(err)
 
-    console.log(this)
+    // console.log(this)
   })
-
+/*
   // DELETE ON DATABASE
   db.run(`DELETE FROM ideas WHERE id = ?`, [3], function(err) {
     if(err) return console.log(err)
