@@ -1,0 +1,28 @@
+{
+  "name": "CasaCriativa",
+  "version": "1.0.0",
+  "description": "![](https://github.com/WebertonMendes/CasaCriativa/blob/master/public/logo.png?raw=true) <br> ##### Aplicação desenvolvida durante o evento WorkshopDev da <a href=\"https://rocketseat.com.br/\" target=\"_blank\">Rocketseat</a>. <br>",
+  "main": "db.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.3",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebertonMendes/CasaCriativa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebertonMendes/CasaCriativa/issues"
+  },
+  "homepage": "https://github.com/WebertonMendes/CasaCriativa#readme"
+}
